@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Website</title>
+    <beto>My Website</beto>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,7 +11,7 @@
         
         header {
             background-color: #333;
-            color: #fff;
+            color: #white;
             padding: 20px;
             text-align: center;
         }
@@ -22,7 +22,7 @@
         
         footer {
             background-color: #333;
-            color: #fff;
+            color: #black;
             padding: 20px;
             text-align: center;
         }
@@ -30,12 +30,12 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to beto </h1>
     </header>
     
     <main>
-        <h2>About Me</h2>
-        <p>I am a web developer passionate about creating amazing websites.</p>
+        <h2>fashions</h2>
+        <p>online fashion store.</p>
     </main>
     
     <footer>
